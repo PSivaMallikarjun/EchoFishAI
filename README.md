@@ -71,7 +71,7 @@ To get started with **EchoFishAI**, clone the repository, install the required d
 ### **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/EchoFishAI.git
+git clone https://github.com/PSivaMallikarjun/EchoFishAI.git
 cd EchoFishAI
 ```
 
@@ -109,7 +109,7 @@ cd EchoFishAI
 
 2. **Access the Web Interface**:
 
-   - Open a browser and go to `http://localhost:5000` to access the main dashboard.
+   - Open a browser and go to `http://localhost:5000 (like this you will get your own url and PID )` to access the main dashboard.
 
 3. **Login**: Use the provided credentials to log into the system and start using the fish tracking and sound emission controls.
 
